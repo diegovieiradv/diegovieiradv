@@ -8,10 +8,11 @@ Eu sou Diego vieira, sou um Programador Front End, Atualmente estou aprendendo e
 -<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
 -<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
 <br>
-:mailbox:Meu e-mail para contato: dvdiego87@gmail.com
+:mailbox:Meu e-mail para contato: dvdiego87@gmail.com <br>
+<br>
+<a href="https://www.linkedin.com/in/diego-vieira-064245342/" target: _blanck>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diego-vieira-064245342/" target: _blanck>
+<img src="https://github.com/user-attachments/assets/0c17b77f-efce-41ea-b4ef-104a3b9bbc7a"></a>
 
-## Meu Linkedin
-<a src="https://www.linkedin.com/in/diego-vieira-064245342/">![CITYPNG COM HD Black   White Scribble Linkedin Aesthetic icon PNG - 2000x2000](https://github.com/user-attachments/assets/667e7e06-c63d-4732-920a-7d03047eb740)
-
-</a>
 
