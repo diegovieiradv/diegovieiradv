@@ -16,5 +16,7 @@ Eu sou Diego vieira, sou um Programador Front End, Atualmente estou aprendendo e
 <img src="https://github.com/user-attachments/assets/0c17b77f-efce-41ea-b4ef-104a3b9bbc7a"></a>
 
 [![Diego Stats](https://github-readme-stats.vercel.app/api?username=diegovieiradv)](https://github.com/anuraghazra/github-readme-stats)
+<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegovieiradv)](https://github.com/anuraghazra/github-readme-stats)
 
 
