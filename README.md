@@ -81,10 +81,6 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"             
 />
-
-  
-
-
 <br/>
 
 ### 📊 Estatísticas
@@ -104,6 +100,8 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovieiradv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   /> <br>
 <br>
+
+    
 ## Meu Linkedin
 <a href="https://www.linkedin.com/in/diego-vieira-de-souza/" target: _blanck>
 <img src="https://github.com/user-attachments/assets/0c17b77f-efce-41ea-b4ef-104a3b9bbc7a"></a>
