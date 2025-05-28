@@ -81,7 +81,10 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"             
 />
-<br/>
+<br>
+<br>
+<br>
+
 ## 📊 Estatísticas
 
 <div align="center">
