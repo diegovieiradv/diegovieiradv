@@ -101,11 +101,15 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
   />
 </p>  
 </div>
+## 🔗 Meu LinkedIn
 
-## Meu Linkedin
-<a href="https://www.linkedin.com/in/diego-vieira-de-souza/" target: _blanck>
-<img src="https://github.com/user-attachments/assets/0c17b77f-efce-41ea-b4ef-104a3b9bbc7a"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-vieira-de-souza/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 
-:mailbox:Meu e-mail para contato: dvdiego87@gmail.com <br> <br>
+📧 Meu e-mail para contato: dvdiego87@gmail.com
+
 
 
