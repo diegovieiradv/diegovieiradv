@@ -82,25 +82,15 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"             
 />
 <br/>
+## 📊 Estatísticas
 
-### 📊 Estatísticas
-<div align= 'center'>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegovieiradv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovieiradv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>  
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=diegovieiradv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovieiradv&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
 </div>
+
+<br>
+
 ## 🔗 Meu LinkedIn
 
 <p align="center">
@@ -110,6 +100,5 @@ Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou
 </p>
 
 📧 Meu e-mail para contato: dvdiego87@gmail.com
-
 
 
