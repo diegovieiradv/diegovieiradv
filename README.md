@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou estudando as Tecnologias HTML, CSS, JavaScirpt, React.js, Node.js, MySQL e PostGree, Sou apaixonado por tecnologia e crio projetos web.
+Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou estudando as Tecnologias HTML, CSS, JavaScirpt, React.js, Node.js, MySQL, PostGree,n8n, docker e kubernetes. Sou apaixonado por tecnologia e crio projetos web.
 
 ### 🤖 Linguagens e Tecnologias
 
