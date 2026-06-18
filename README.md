@@ -2,7 +2,16 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego , tenho 37 anos e sou natural do Rio de Janeiro. Atualmente estou estudando as Tecnologias HTML, CSS, JavaScirpt, React.js, Node.js, MySQL, PostGree,n8n, docker e kubernetes. Sou apaixonado por tecnologia e crio projetos web.
+Olá! Sou Diego, Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web utilizando Java, JavaScript, React e Node.js.
+
+Tenho experiência na criação de APIs REST, integração com bancos de dados relacionais e não relacionais (SQL e NoSQL) e desenvolvimento de projetos completos do front-end ao back-end.
+
+Também possuo conhecimentos em Docker, Kubernetes, Oracle Cloud Infrastructure (OCI), automação com n8n e práticas de DevOps.
+
+Além do desenvolvimento web, possuo formação complementar em análise de dados, linguagem R, LGPD e qualidade de software, buscando sempre aplicar boas práticas de desenvolvimento, segurança e organização de código.
+
+Neste perfil compartilho projetos, estudos e aplicações desenvolvidas ao longo da minha jornada na área de tecnologia.
+
 
 ### 🤖 Linguagens e Tecnologias
 
